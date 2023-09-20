@@ -1,0 +1,30 @@
+body {
+    background-color: black; /* Definindo o fundo da página como preto */
+    margin: 0;
+}
+
+#container {
+    background-color: black; /* Fundo do contêiner também preto */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#textInput {
+    width: 200px;
+    padding: 5px;
+}
+
+#message {
+    margin-top: 10px;
+    color: white;
+}
+
+#confirmButton {
+    background-color: green; /* Botão "Confirmar" verde */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
