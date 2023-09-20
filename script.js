@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", function () {
         if (inputValue === 'joão') {
             message.innerHTML = 'NZSXMZLSEBTW63TOMEQGO2LWMUQHS33VEB2XA===';
         } else if (inputValue === 'never gonna let you down') {
-            message.innerHTML = '<p>Muito bem! Para continuar, clique <a href="https://imgur.com/a/ltzkiSY">aqui</a>.</p>';
+            message.innerHTML = '<p>Muito bem! Para continuar, clique <a href="https://imgur.com/a/OYRethr">aqui</a>.</p>';
         } else {
             message.innerHTML = '';
         }
